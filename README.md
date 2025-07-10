@@ -46,15 +46,7 @@ This script builds a **Convolutional Neural Network** (CNN) to distinguish the u
 
 ---
 
-## 📂 Outputs Folder
 
-Included output files:
-- `mnist_accuracy_output.txt` – Final test accuracy
-- `mnist_prediction_output.txt` – First prediction vs label
-- `face_model_accuracy.txt` – Training summary for face model
-- `mnist_accuracy_plot.png` – Accuracy over epochs
-- `mnist_loss_plot.png` – Loss over epochs
-- `face_recognition_accuracy.png` – Face model accuracy
 
 ---
 
